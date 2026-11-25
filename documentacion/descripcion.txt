@@ -1,4 +1,5 @@
-Nombre del proyecto: Estética Canina Oh My Dog
+Nombre del proyecto:
+Estética Canina Oh My Dog
 
 Problema:
 El control de citas y registros en papel genera pérdida de información, fichas incompletas y falta de trazabilidad en el historial de cada mascota, además de complicar el seguimiento de la agenda diaria y el control de ingresos.
