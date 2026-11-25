@@ -7,4 +7,4 @@ Objetivo:
 Desarrollar un sistema web para digitalizar y organizar los registros, citas y expedientes de las mascotas en las áreas de spa, estética y guardería, permitiendo al personal gestionar la información de manera ágil y centralizada.
 
 Descripción del proyecto:
-Plataforma web diseñada para eliminar el uso de papel mediante la centralización de procesos. Permitirá registrar clientes y mascotas, agendar citas (baño, estética y guardería), administrar expedientes con historial de servicios y vacunas, y llevar el control de pagos desde un solo lugar.
+Plataforma web diseñada para eliminar el uso de papel mediante la centralización de procesos. Permitirá registrar clientes y mascotas, agendar citas (baño, estética y guardería), administrar expedientes con historial de servicios y vacunas, y llevar el control de cobros desde un solo lugar.
